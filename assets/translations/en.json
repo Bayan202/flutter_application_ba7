@@ -1,0 +1,11 @@
+{
+    "Hello": "Hi",
+    "Name": "Write your name",
+    "Number": "Write your your phone number",
+    "Mail": "Write your email addres",
+    "Map": "Choose your country",
+    "Pass": "Create a new password",
+    "Password": "Return password again",
+    "Message" : "Write your message"
+
+}
